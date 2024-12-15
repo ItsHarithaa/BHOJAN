@@ -1,0 +1,22 @@
+.veg-items {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .veg-item {
+    text-align: center;
+  }
+  
+  .veg-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .veg-item p {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
